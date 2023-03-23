@@ -16,21 +16,21 @@ const mess = {
 		limit: "Limit anda sudah habis, silahkan gunakan fitur ini esok hari"
 }
 class config {
-	static botname = "@elaina-md"
+	static botname = "@Frdy-Botz V.1"
 	static server = true
-	static email = 'skylarkaf07@gmail.com'
-	static instagram = 'https://instagram.com/skylarkaf_'
-	static wagrup = 'https://chat.whatsapp.com/InsJNQYzm0W66YQmNa5jX9'
-	static adRep1 = 'https://telegra.ph/file/562e41de727f605b9ad93.jpg'
-	static adRep2 = 'https://telegra.ph/file/9d155a6d06a7b290b8ffe.jpg'
+	static email = 'frdy.frmnsyh.18@gmail.com'
+	static instagram = 'https://instagram.com/'
+	static wagrup = 'https://chat.whatsapp.com/I47cTfEwzIC391KPBjbTPq'
+	static adRep1 = 'https://telegra.ph/file/30d6390a398acb048cab9.jpg'
+	static adRep2 = 'https://telegra.ph/file/30d6390a398acb048cab9.jpg'
 	static prefixs = "multi"
 	static session = "xyz"
-	static ownername = "SkylarKaf"
+	static ownername = "Ferdy Firmansyah"
 	static self = false
-	static packInfo = { packname: "Elaina - MD", author: "instagram: @skylarkaf_" }
-	static namebot = "elaina-chan"
+	static packInfo = { packname: "Frdy Botz - V.1", author: "Nomor Bot: 62822522851433" }
+	static namebot = "Frdy-Botz V.1"
 	static limit = 50
-	static owner = ["6282331660134@s.whatsapp.net"];	
+	static owner = ["62823504965328@s.whatsapp.net"];	
 }
 
 //reload command/function
